@@ -1,1 +1,1 @@
-# Live site - https://mekaiser.github.io/personal-website/
+# Live site - https://bbayramm.github.io/my_cv/
